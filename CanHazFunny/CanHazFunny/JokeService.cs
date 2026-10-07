@@ -1,4 +1,6 @@
-﻿using System.Net.Http;
+using System;
+using System.Net.Http;
+using System.Net.Http.Json;
 
 namespace CanHazFunny;
 
@@ -8,7 +10,9 @@ public class JokeService : IJokeService
 
     public string GetJoke()
     {
-        string joke = HttpClient.GetStringAsync("https://geek-jokes.sameerkumar.website/api").Result;
-        return joke;
+        JokeResponse? response = HttpClient.GetFromJsonAsync<JokeResponse>("https://geek-jokes.sameerkumar.website/api?format=json").Result;
+        return response?.Joke ?? throw new InvalidOperationException("The joke service did not return a joke.");
     }
+
+    private sealed record JokeResponse(string Joke);
 }
