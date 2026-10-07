@@ -15,13 +15,13 @@ public class ConsoleJokeOutputTests
 
         try
         {
-            new ConsoleJokeOutput().WriteJoke("Why do programmers prefer dark mode?");
+            new ConsoleJokeOutput().WriteJoke("Why do programmers prefer dark mode? Because light attracts bugs.");
         }
         finally
         {
             Console.SetOut(originalOut);
         }
 
-        Assert.Equal("Why do programmers prefer dark mode?" + Environment.NewLine, writer.ToString());
+        Assert.Equal("Why do programmers prefer dark mode? Because light attracts bugs." + Environment.NewLine, writer.ToString());
     }
 }
