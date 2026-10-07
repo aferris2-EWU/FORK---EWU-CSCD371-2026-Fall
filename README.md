@@ -45,7 +45,7 @@ For this assignment do the following:
 
 ## Extra Credit
 
-- Unit test your implementation that writes the joke out to the screen. How hard could it be to unit test a single line method ;)?
+- Unit test your implementation that writes the joke out to the screen. How hard could it be to unit test a single line method ;)? ✔
 - The Geek jokes API that is being used can also return jokes in a JSON format. Update the `JokeService` to retrieve jokes using JSON. `GetJoke` should still return a string. ✔
 
 ## Additional links
