@@ -15,3 +15,5 @@ public static class Extensions
 
 // if you see (Person person) it must *not* say static below
 // if you see (Person) it must say static below
+
+// link to practice quiz: https://claude.ai/artifact/5cXdM5bon2hbjLhmBjwzh3
