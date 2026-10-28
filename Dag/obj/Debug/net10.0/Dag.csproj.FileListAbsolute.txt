@@ -1,0 +1,12 @@
+/Users/austinferris/FORK---EWU-CSCD371-2026-Fall/Dag/bin/Debug/net10.0/Dag.deps.json
+/Users/austinferris/FORK---EWU-CSCD371-2026-Fall/Dag/bin/Debug/net10.0/Dag.dll
+/Users/austinferris/FORK---EWU-CSCD371-2026-Fall/Dag/bin/Debug/net10.0/Dag.pdb
+/Users/austinferris/FORK---EWU-CSCD371-2026-Fall/Dag/obj/Debug/net10.0/Dag.GeneratedMSBuildEditorConfig.editorconfig
+/Users/austinferris/FORK---EWU-CSCD371-2026-Fall/Dag/obj/Debug/net10.0/Dag.AssemblyInfoInputs.cache
+/Users/austinferris/FORK---EWU-CSCD371-2026-Fall/Dag/obj/Debug/net10.0/Dag.AssemblyInfo.cs
+/Users/austinferris/FORK---EWU-CSCD371-2026-Fall/Dag/obj/Debug/net10.0/Dag.csproj.CoreCompileInputs.cache
+/Users/austinferris/FORK---EWU-CSCD371-2026-Fall/Dag/obj/Debug/net10.0/Dag.sourcelink.json
+/Users/austinferris/FORK---EWU-CSCD371-2026-Fall/Dag/obj/Debug/net10.0/Dag.dll
+/Users/austinferris/FORK---EWU-CSCD371-2026-Fall/Dag/obj/Debug/net10.0/refint/Dag.dll
+/Users/austinferris/FORK---EWU-CSCD371-2026-Fall/Dag/obj/Debug/net10.0/Dag.pdb
+/Users/austinferris/FORK---EWU-CSCD371-2026-Fall/Dag/obj/Debug/net10.0/ref/Dag.dll

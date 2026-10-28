@@ -1,0 +1,15 @@
+/Users/austinferris/FORK---EWU-CSCD371-2026-Fall/Contacts/bin/Debug/net10.0/Contacts
+/Users/austinferris/FORK---EWU-CSCD371-2026-Fall/Contacts/bin/Debug/net10.0/Contacts.deps.json
+/Users/austinferris/FORK---EWU-CSCD371-2026-Fall/Contacts/bin/Debug/net10.0/Contacts.runtimeconfig.json
+/Users/austinferris/FORK---EWU-CSCD371-2026-Fall/Contacts/bin/Debug/net10.0/Contacts.dll
+/Users/austinferris/FORK---EWU-CSCD371-2026-Fall/Contacts/bin/Debug/net10.0/Contacts.pdb
+/Users/austinferris/FORK---EWU-CSCD371-2026-Fall/Contacts/obj/Debug/net10.0/Contacts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/austinferris/FORK---EWU-CSCD371-2026-Fall/Contacts/obj/Debug/net10.0/Contacts.AssemblyInfoInputs.cache
+/Users/austinferris/FORK---EWU-CSCD371-2026-Fall/Contacts/obj/Debug/net10.0/Contacts.AssemblyInfo.cs
+/Users/austinferris/FORK---EWU-CSCD371-2026-Fall/Contacts/obj/Debug/net10.0/Contacts.csproj.CoreCompileInputs.cache
+/Users/austinferris/FORK---EWU-CSCD371-2026-Fall/Contacts/obj/Debug/net10.0/Contacts.sourcelink.json
+/Users/austinferris/FORK---EWU-CSCD371-2026-Fall/Contacts/obj/Debug/net10.0/Contacts.dll
+/Users/austinferris/FORK---EWU-CSCD371-2026-Fall/Contacts/obj/Debug/net10.0/refint/Contacts.dll
+/Users/austinferris/FORK---EWU-CSCD371-2026-Fall/Contacts/obj/Debug/net10.0/Contacts.pdb
+/Users/austinferris/FORK---EWU-CSCD371-2026-Fall/Contacts/obj/Debug/net10.0/Contacts.genruntimeconfig.cache
+/Users/austinferris/FORK---EWU-CSCD371-2026-Fall/Contacts/obj/Debug/net10.0/ref/Contacts.dll
