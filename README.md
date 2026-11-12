@@ -16,7 +16,7 @@ Build a people CSV importer using the same format as Assignment 7. The purpose o
 
 ### Project setup
 
-- Create a `.slnx` solution containing a class library and a unit test project that references it. ❌✔
+- Create a `.slnx` solution containing a class library and a unit test project that references it. ✔
 
 ### CSV data
 
@@ -62,9 +62,8 @@ Id,FirstName,LastName,Email,StreetAddress,City,State,Zip
 
 ## Fundamentals
 
-- Target all projects at .NET 10 (`net10.0`) and use the latest `LangVersion`. ❌✔
-- Enable nullable reference types, .NET analyzers, and code style enforcement for all projects. ❌✔
+- Target all projects at .NET 10 (`net10.0`) and use the latest `LangVersion`.  ✔
+- Enable nullable reference types, .NET analyzers, and code style enforcement for all projects. ✔
 - Ensure there are no build errors or warnings, including analyzer warnings. ❌✔
 - All of the above should be unit tested. ❌✔
 - Choose simplicity over complexity. No console UI, async, or multithreading is required. ❌✔
-
