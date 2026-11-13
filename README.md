@@ -26,10 +26,10 @@ Use the same columns as Assignment 7:
 Id,FirstName,LastName,Email,StreetAddress,City,State,Zip
 ```
 
-- Parse each record into person/address models. ❌✔
-- Choose and document at least three validation rules, such as a wrong field count, an invalid or duplicate `Id`, or missing required values. ❌✔
+- Parse each record into person/address models. ✔
+- Choose and document at least three validation rules, such as a wrong field count, an invalid or duplicate `Id`, or missing required values. ✔
 - Here's our rules: exactly 8 fields; Id is a positive integer; all other fields are non-empty
-- Create test data with a header and one record per line. You do not need to support quoted fields, embedded commas, or multiline records. ❌✔
+- Create test data with a header and one record per line. You do not need to support quoted fields, embedded commas, or multiline records. ✔
 
 ### Exception handling
 
