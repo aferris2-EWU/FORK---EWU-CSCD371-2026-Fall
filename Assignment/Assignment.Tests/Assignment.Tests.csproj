@@ -16,4 +16,8 @@
     <ProjectReference Include="..\Assignment\Assignment.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="People.csv" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+
 </Project>
